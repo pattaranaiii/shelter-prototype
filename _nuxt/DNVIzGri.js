@@ -1,0 +1,1 @@
+import{M as e,Ot as t,U as n}from"./5dxM_4D9.js";import{F as r}from"#entry";import{t as i}from"./CwTCCmed.js";var a=n({__name:`map`,setup(n){return r({title:`แผนที่ · ระบบฐานข้อมูลศูนย์พักพิง`}),(n,r)=>{let a=i;return t(),e(a)}}});export{a as default};
