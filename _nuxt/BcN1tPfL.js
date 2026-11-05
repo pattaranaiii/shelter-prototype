@@ -1,0 +1,1 @@
+var e=e=>`/shelter-prototype/${e}`;export{e as t};

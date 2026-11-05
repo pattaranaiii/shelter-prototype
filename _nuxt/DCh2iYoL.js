@@ -1,0 +1,1 @@
+import{U as e}from"./5dxM_4D9.js";import{b as t}from"./p-iNzI1L.js";var n=e({__name:`[...slug]`,setup(e){throw t({statusCode:404,statusMessage:`ไม่พบหน้าที่ต้องการ`})}});export{n as default};

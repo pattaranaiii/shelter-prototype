@@ -1,0 +1,1 @@
+import{Mn as e,Z as t,vt as n}from"./5dxM_4D9.js";function r(r){let i=matchMedia(r),a=e(i.matches),o=e=>a.value=e.matches;return i.addEventListener(`change`,o),t()&&n(()=>i.removeEventListener(`change`,o)),a}export{r as t};

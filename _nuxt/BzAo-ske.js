@@ -1,0 +1,1 @@
+import{i as e}from"#entry";function t(){let t=e(`toast`,()=>``),n;return{msg:t,toast:e=>{t.value=e,clearTimeout(n),n=setTimeout(()=>t.value=``,2800)}}}export{t};
