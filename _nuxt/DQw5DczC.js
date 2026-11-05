@@ -1,0 +1,1 @@
+import{M as e,Ot as t,U as n}from"./5dxM_4D9.js";import{F as r}from"#entry";import{t as i}from"./wCfwt7ss.js";import"./BoNYidJs.js";var a=n({__name:`index`,setup(n){return r({title:`แผนที่ศูนย์พักพิง · ระบบฐานข้อมูลศูนย์พักพิง`}),(n,r)=>{let a=i;return t(),e(a,{"is-public":``})}}});export{a as default};
